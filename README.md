@@ -37,9 +37,6 @@ try {
 
 ```sh
 npm install -g vercel
-```
-
-```sh
 vercel login
 ```
 
